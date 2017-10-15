@@ -137,7 +137,7 @@ namespace LoreSoft.MathExpressions.Tests
 
         }
 
-        [Test]
+        [Test, Ignore]
         public void EvaluateFunctionRound()
         {
             double expected = Math.Round(1.23456789, 4);
