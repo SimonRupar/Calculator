@@ -13,6 +13,7 @@ namespace LoreSoft.Calculator
         [STAThread]
         static void Main(string[] args)
         {
+            return;
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
